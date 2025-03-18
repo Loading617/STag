@@ -1,2 +1,2 @@
 # STag
-ID3 Tag Editor Windows Appilcation
+A ID3 Tag Editor for Windows
